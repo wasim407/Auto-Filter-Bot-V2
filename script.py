@@ -3,15 +3,9 @@ class script(object):
 
     START_MSG = """ <b>ഹായ {}
 
-You can call this as an Auto Filter Bot if you like :D
-
-This is Version 2 of Auto Filter Bot
-
-Bot gives button link to files in connected channels on query !
-
-No need to add filters for your files or movies from now on!
-
-For more click <i>help</i></b>"""
+ഞാൻ @MGMOVIEGRAM എന്ന ഗ്രൂപ്പിൽ മൂവീസ് കൊടുക്കുന്ന ബോട്ട് ആണ് 
+ 
+എന്നെ മറ്റു ഗ്രൂപ്പിൽ ഒന്നും ഉപയോഗിക്കാൻ കഴിയുകയില്ല😁 <i>help</i></b>"""
 
 
     HELP_MSG = """<b>How to use the bot??</b>
