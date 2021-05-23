@@ -52,7 +52,7 @@ Bot will automatically search for your files and give links to that!
 
     ABOUT_MSG = """⭕️<b>My Name : Auto Filter Bot V2</b>
     
-⭕️<b>Creater :</b> @TroJanzHEX
+⭕️<b>Creater :</b> @wafikh
 
 ⭕️<b>Language :</b> <code>Python3</code>
 
